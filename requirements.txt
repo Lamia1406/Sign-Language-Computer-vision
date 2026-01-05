@@ -1,7 +1,8 @@
 streamlit==1.52.2
-numpy==2.2.6
+numpy==1.26.4
+mediapipe==0.10.14
+opencv-python
+scikit-image==0.22.0
 fastai
 ultralytics
-ipython==9.8.0
-scikit-image==0.26.0
-mediapipe==0.10.14
+ipython
