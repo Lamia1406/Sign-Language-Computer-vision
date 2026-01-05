@@ -11,6 +11,9 @@ from HOG_SVM.hog_batch_prediction import hog_batch_prediction
 from HOG_SVM.hog_webcam import hog_webcam
 from HOG_SVM.load_hog_model import load_hog_model
 
+import sys
+
+st.write("Python version:", sys.version)
 # -----------------------------
 # Fix pathlib on Windows
 # -----------------------------
