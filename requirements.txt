@@ -6,3 +6,4 @@ scikit-image==0.22.0
 fastai
 ultralytics
 ipython
+opencv-python-headless
